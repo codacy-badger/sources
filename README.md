@@ -1,2 +1,9 @@
-# sources
-Sources
+# sources  
+Source URLs  
+https://github.com/casjay/dotfiles  
+https://bitbucket.org/sjl/dotfiles  
+https://github.com/gpakosz/.tmux  
+https://github.com/flux242/dotfiles  
+https://github.com/Olical/dotfiles  
+https://github.com/alrra/dotfiles  
+https://github.com/rmm5t/dotfiles  
