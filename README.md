@@ -7,3 +7,5 @@ https://github.com/flux242/dotfiles
 https://github.com/Olical/dotfiles  
 https://github.com/alrra/dotfiles  
 https://github.com/rmm5t/dotfiles  
+  
+https://gist.github.com/insin/1425703  
