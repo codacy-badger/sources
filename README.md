@@ -1,6 +1,7 @@
 # sources  
 Source URLs - Resources   
-https://github.com/casjay/dotfiles  
+https://github.com/casjay/dotfiles
+https://gitlab.com/dwt1/dotfiles  
 https://bitbucket.org/sjl/dotfiles  
 https://github.com/gpakosz/.tmux  
 https://github.com/flux242/dotfiles  
