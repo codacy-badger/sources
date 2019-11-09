@@ -1,5 +1,5 @@
 # sources  
-Source URLs  
+Source URLs - Resources   
 https://github.com/casjay/dotfiles  
 https://bitbucket.org/sjl/dotfiles  
 https://github.com/gpakosz/.tmux  
