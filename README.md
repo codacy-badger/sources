@@ -11,3 +11,5 @@ https://github.com/rmm5t/dotfiles
   
 https://gist.github.com/insin/1425703  
 https://gist.github.com/joaopizani/2718397  
+
+https://www.cyberciti.biz/faq/linux-unix-shell-check-if-directory-empty/
