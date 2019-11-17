@@ -9,7 +9,7 @@ https://github.com/Olical/dotfiles
 https://github.com/alrra/dotfiles  
 https://github.com/rmm5t/dotfiles  
 https://github.com/gpanders/dotfiles  
-https://github.com/anokata/dotfiles
+https://github.com/anokata/dotfiles  
 https://github.com/seagle0128  
 https://gist.github.com/insin/1425703  
 https://gist.github.com/joaopizani/2718397  
