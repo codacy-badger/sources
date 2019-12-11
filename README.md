@@ -17,7 +17,8 @@ https://github.com/rcmdnk/dotfiles
 https://gist.github.com/insin/1425703  
 https://gist.github.com/joaopizani/2718397  
 https://gist.github.com/ravinderj/de67e5ddacf715d30e52adac0ae54edc  
-  
+
+https://github.com/alebcay/awesome-shell  
 https://www.cyberciti.biz/faq/linux-unix-shell-check-if-directory-empty/  
 http://www.tokeru.com/cgwiki/index.php?title=GeneralUtilties#Gif_capture_software  
   
