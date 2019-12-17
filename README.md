@@ -22,5 +22,6 @@ https://gist.github.com/ravinderj/de67e5ddacf715d30e52adac0ae54edc
 https://github.com/alebcay/awesome-shell  
 https://www.cyberciti.biz/faq/linux-unix-shell-check-if-directory-empty/  
 http://www.tokeru.com/cgwiki/index.php?title=GeneralUtilties#Gif_capture_software  
+https://github.com/scop/bash-completion  
   
 https://github.com/santinic/how2
