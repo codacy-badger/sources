@@ -17,6 +17,7 @@ https://github.com/seagle0128
 https://github.com/skwp/dotfiles  
 https://github.com/rcmdnk/dotfiles  
 https://github.com/yutakatay/dotfiles  
+https://github.com/ar1a/dotfiles  
   
 https://gist.github.com/insin/1425703  
 https://gist.github.com/joaopizani/2718397  
