@@ -18,6 +18,7 @@ https://github.com/skwp/dotfiles
 https://github.com/rcmdnk/dotfiles  
 https://github.com/yutakatay/dotfiles  
 https://github.com/ar1a/dotfiles  
+https://github.com/Haron-Prime/My_config_files
   
 https://gist.github.com/insin/1425703  
 https://gist.github.com/joaopizani/2718397  
