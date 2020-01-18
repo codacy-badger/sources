@@ -24,6 +24,7 @@ https://github.com/vlevit/notify-send.sh
 https://github.com/Cherrry9/Dotfiles  
 https://github.com/Bash-it/bash-it  
 https://github.com/ASAP-tru/dotfiles  
+https://gitlab.com/epsi-rns/dotfiles  
   
 https://gist.github.com/insin/1425703  
 https://gist.github.com/joaopizani/2718397  
