@@ -1,4 +1,5 @@
-## Sources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+## Sources List 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
   
 ---A list of places i have used for my configurations---  
   
